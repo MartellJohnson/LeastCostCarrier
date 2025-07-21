@@ -54,8 +54,6 @@ Many departments (sales, customer service, production) were selecting carriers i
 
 ## 🖼️ Dashboard Preview
 
-*(Insert screenshot here — with redacted or dummy data)*  
-
 <img width="1114" height="627" alt="image" src="https://github.com/user-attachments/assets/6d7887b1-af24-48e9-9835-acf5bb6e53b0" />
 
 ---
